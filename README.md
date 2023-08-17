@@ -13,7 +13,6 @@
 <a href="https://www.linkedin.com/in/aymen-saidani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymensaidani" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aimensdni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x.vziz" height="30" width="40" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aymensaidani&label=Profile%20views&color=0e75b6&style=flat" alt="aymensaidani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymensaidani" alt="aymensaidani" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
