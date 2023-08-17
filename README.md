@@ -2,6 +2,10 @@
 <h3 align="center">A passionate JavaScript web developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aziz-sassi&label=Profile%20views&color=0e75b6&style=flat" alt="aziz-sassi" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aziz-sassi" alt="aziz-sassi" /></a> </p>
+
 - 💬 Ask me about : **react, node js, express js**
 - 📫 How to reach me : **aymensaidany@gmail.com**
 - ⚡ Fun fact : **I'm funny**
